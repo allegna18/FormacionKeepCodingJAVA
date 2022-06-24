@@ -1,0 +1,4 @@
+INSERT INTO productos(nombre,codigo_producto,tipo,precio,fecha_registro,cantidad) VALUES("Carne de Pollo",1021,"Corrar","10$ kilo","2022-06-16",89);
+INSERT INTO productos(nombre,codigo_producto,tipo,precio,fecha_registro,cantidad) VALUES("Carne Pescado",1022,"Oceano","19$ kilo","2022-06-16",110);
+INSERT INTO productos(nombre,codigo_producto,tipo,precio,fecha_registro,cantidad) VALUES("Carne Masricos",1023,"Mediterraneo","24$ kilo","2022-06-16",95);
+INSERT INTO productos(nombre,codigo_producto,tipo,precio,fecha_registro,cantidad) VALUES("Carne Porcino",1024,"Criadero","13$ kilo","2022-06-16",130);
